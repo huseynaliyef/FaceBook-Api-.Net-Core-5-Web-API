@@ -1,0 +1,116 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\0c7b3f1d-b434-4d2d-b821-709ea4c945cdperson.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Photos\0c7b3f1d-b434-4d2d-b821-709ea4c945cdperson.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\0c7b3f1d-b434-4d2d-b821-709ea4c945cdperson.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\5d847ecf-ee62-4970-8742-9f3429c14a0dd4741cb779ddec6509ca1ae0cb137a7d.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Photos\5d847ecf-ee62-4970-8742-9f3429c14a0dd4741cb779ddec6509ca1ae0cb137a7d.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\5d847ecf-ee62-4970-8742-9f3429c14a0dd4741cb779ddec6509ca1ae0cb137a7d.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\79f40e1d-1902-4718-a0ce-528759de8673person.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Photos\79f40e1d-1902-4718-a0ce-528759de8673person.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\79f40e1d-1902-4718-a0ce-528759de8673person.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\f6fa0444-5859-4a01-8b13-42e17e57b60fadmin photo.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Photos\f6fa0444-5859-4a01-8b13-42e17e57b60fadmin photo.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Photos\f6fa0444-5859-4a01-8b13-42e17e57b60fadmin photo.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\022629b1-595f-4877-b1e4-4725031952addownload.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Posts\022629b1-595f-4877-b1e4-4725031952addownload.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\022629b1-595f-4877-b1e4-4725031952addownload.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\098e594c-a1d7-4e0b-a18b-af1467e4aadcBaku-Azerbaijan-Caspian-Sea.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Posts\098e594c-a1d7-4e0b-a18b-af1467e4aadcBaku-Azerbaijan-Caspian-Sea.webp</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\098e594c-a1d7-4e0b-a18b-af1467e4aadcBaku-Azerbaijan-Caspian-Sea.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\d20acaa6-3666-44ef-80f2-73c84af0b420download.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>FaceBookAPP</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FaceBookAPP</BasePath>
+      <RelativePath>Posts\d20acaa6-3666-44ef-80f2-73c84af0b420download.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posts\d20acaa6-3666-44ef-80f2-73c84af0b420download.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

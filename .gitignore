@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FaceBook App/FaceBookAPP/FaceBookAPP/appsettings.json
+/FaceBook App/FaceBookAPP/FaceBookAPP/appsettings.Development.json
+/FaceBook App/FaceBookAPP/FaceBookAPP/appsettings.Development.json
